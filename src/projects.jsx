@@ -18,6 +18,12 @@ function Projects() {
         title: 'College Soccer Injury Predcitor',
         description: 'A machine learning model that predicts whether a player will get injured or not based on habits',
         link: 'https://github.com/AryanKpr/MLSN-Team-9-Project-2025'
+      },
+      {
+        id: 4,
+        title: 'Personal Website',
+        description: 'A personal website that leverages React.js, HTML and CSS',
+        link: 'https://github.com/AryanKpr/portfolio'
       }
     ];
   
