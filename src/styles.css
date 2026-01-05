@@ -7,19 +7,21 @@
   body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
+    background-color: #0f172a; 
+    color: #ffffff;
   }
 
   .profile-img {
     width: 350px;
     height: 400px;
-    object-fit: cover;        /* fills the container */
-    object-position: center; /* keeps face centered */
+    object-fit: cover;        
+    object-position: center;
     border-radius: 5px;
-    border: 2px solid #007bff;
+    border: 2px solid #ffffff;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   }
   .header {
-    background: #333;
+    background: #232323;
     color: white;
     padding: 1rem;
     position: sticky;
